@@ -1,2 +1,2 @@
 # homework5.1
-print("Hi, I think roses are cut.")
+print("Hi, I think roses are cute.")
